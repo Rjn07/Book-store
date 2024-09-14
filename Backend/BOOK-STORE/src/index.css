@@ -1,0 +1,18 @@
+/* ./src/index.css */
+
+/* Import Tailwind's base styles */
+@import 'tailwindcss/base';
+
+/* Import Tailwind's components styles */
+@import 'tailwindcss/components';
+
+/* Import Tailwind's utilities styles */
+@import 'tailwindcss/utilities';
+
+/* Your custom styles go here */
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+
+body {
+  font-family: 'Poppins',sans-serif;
+}
